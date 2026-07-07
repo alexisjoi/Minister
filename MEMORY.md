@@ -1,0 +1,1 @@
+- [Scripture search engine + live tuning](scripture-search-engine.md) — Minister verse search is hybrid (curated + Fuse + IDF), not pure fuzzy; how to verify ranking, plus live-mode confidence/sensitivity/cooldown decisions.
